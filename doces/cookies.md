@@ -1,6 +1,6 @@
 # Cookies
 
-| Ingrediente       | Quantidade                                 |
+| Quantidade        | Ingrediente                                |
 |-------------------|--------------------------------------------|
 | 950ml             | Farinha de Trigo                           |
 | 1.5 Colher de Chá | Fermento Químico                           |
