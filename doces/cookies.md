@@ -2,6 +2,8 @@
 
 ![massa](imagens/massa.jpg)
 
+---
+
 <!-- TOC -->
 
 - [Cookies](#cookies)
@@ -11,6 +13,8 @@
     - [Comentários](#comentários)
 
 <!-- /TOC -->
+
+---
 
 ## Ingredientes
 
@@ -24,12 +28,12 @@
 | 300ml             | Açúcar Mascavo                             |
 | 300ml             | Açúcar Cristal                             |
 | 2                 | Ovos                                       |
-| 2 Colheres de Chá | Exrato de Baunilha - Opcional              |
+| 2 Colheres de Chá | Extrato de Baunilha - Opcional             |
 | Papel manteiga    | Para assar. Opcional, mas muito recomendado|
 
 ## Preparo
 
-* Corte a manteiga em cubos de tamanhos mais ou menos iguais e derreta no microondas mesmo
+* Corte a manteiga em cubos de tamanhos mais ou menos iguais e derreta no microondas
   
   * O corte em cubos de tamanho parecido é importante para que o derretimento
     seja um pouco mais uniforme que o normal
@@ -42,9 +46,14 @@
 * Misture o açúcar cristal e mexa até misturar
 
 * Repita o processo com o açúcar mascavo e mais uma vez com baunilha - se for usar
-* Os processos de mistura até podem ser feitos em batedeiras e afins, mas tome
-  cuidado para não bater _demais_. Aerar muito essa mistura
-  interfere bastante na textura final do cookie
+
+---
+
+>  Os processos de mistura até podem ser feitos em batedeiras e afins, mas tome
+>  cuidado para não bater _demais_. Aerar muito essa mistura
+>  interfere bastante na textura final do cookie
+
+---
 
 * Peneire a farinha sobre a mistura ou peneire a farinha em outra bacia e jogue a
   mistura por cima - a ordem não importa, mas peneirar a farinha sim pois facilita
@@ -55,12 +64,16 @@
 
 * Com uma colher grande, misture com cuidado a farinha
 
-  * Um boa maneira é fazer movimentos circulares começando do lado de fora da
-    bacia e por baixo e indo para dentro e para cima, dobrando a massa sobre si diversas vezes
-  * Gire a bacia ao invés de girar muito sua mão, se você preferir
-  * Repita o processo até formar uma mistura homogênea
-  * Evite misturar com muita força ou por muito tempo depois de tudo estar
-    homogêneo - para evitar a formação de glúten, o que irá alterar a textura do cookie
+---
+
+>  * Um boa maneira é fazer movimentos circulares começando do lado de fora da
+>    bacia e por baixo e indo para dentro e para cima, dobrando a massa sobre si diversas vezes
+>  * Gire a bacia ao invés de girar muito sua mão, se você preferir
+>  * Repita o processo até formar uma mistura homogênea
+>  * Evite misturar com muita força ou por muito tempo depois de tudo estar
+>    homogêneo - para evitar a formação de glúten, o que irá alterar a textura do cookie
+
+---
 
 * Adicione as gotas ou pedaços de chocolate
 * Misture bem
@@ -75,20 +88,24 @@
 
 * Forre uma fôrma com papel manteiga
 
-  * Papel manteiga é uma das melhores opções para assar pois permite que você tire os cookies da
-    fôrma com facilidade logo depois de tirar do forno para deixar esfriar
-  * Você pode untar uma fôrma com óleo + farinha mas os cookies saem do forno bem moles e é
-    necessário esperar eles esfriarem um pouco para tirá-los para terminar de esfriar em outro lugar
+---
+
+>  * Papel manteiga é uma das melhores opções para assar pois permite que você tire os cookies da
+>    fôrma com facilidade logo depois de tirar do forno para deixar esfriar
+>  * Você pode untar uma fôrma com óleo + farinha mas os cookies saem do forno bem moles e é
+>    necessário esperar eles esfriarem um pouco para tirá-los para terminar de esfriar em outro lugar
+
+---
 
 * Com uma colher de sorvete - ou uma colher comum grande - tire
   pedaços da massa e molde em uma esfera
 
-  * Deixar a esfera mais lisa ou mais rugosa vai afetar a forma final dos cookies
-  * Uma das referências dessa receita sugere formar em uma esfera, cortar a esfera no meio e grudar
-    de novo com a parte mais rugosa para fora - isso cria um cookie mais "rústico"
-
-  * De qualquer forma, é necessário colocar os cookies para assar de forma
-    esférica ou parecida, ele vai derreter no forno e ganhar a forma final
+>  * Deixar a esfera mais lisa ou mais rugosa vai afetar a forma final dos cookies
+>  * Uma das referências dessa receita sugere formar em uma esfera, cortar a esfera no meio e grudar
+>    de novo com a parte mais rugosa para fora - isso cria um cookie mais "rústico"
+>
+>  * De qualquer forma, é necessário colocar os cookies para assar de forma
+>    esférica ou parecida, ele vai derreter no forno e ganhar a forma final
 
 * Coloque os cookies no forno por 7min
 * Vire a fôrma, deixando os cookies que estavam para o fundo na frente e vice-versa
@@ -112,14 +129,22 @@
 
 * A receita original também separava a farinha em cake flour e bread flour - variações
   de farinha de trigo com menos e mais proteína, respectivamente. Substituir as
-  duas por farinha de trigo comum não tem grandes prejuízos
+  duas por farinha de trigo comum não tem grandes prejuízos.
 
-  * Pra fazer cake flour, em cada xícara de farinha de trigo, troque duas
-    colheres de sopa de farinha por duas colheres de sopa de maizena.
+---
 
-  * Para bread flour, adicione uma colher de farinha de glúten em cada xícara de farinha.
-  * Teoricamente a maior mudança deve ser na textura e não no sabor.
-    A maizena deve deixar o cookie mais macio e o glúten, mais coeso
+>  * Pra fazer _cake flour_, em cada xícara de farinha de trigo, troque duas
+>    colheres de sopa de farinha por duas colheres de sopa de maizena.
+>
+>  * Para _bread flour_, adicione uma colher de farinha de glúten em cada xícara de farinha.
+>  * Teoricamente a maior mudança deve ser na textura e não no sabor.
+>    A maizena deve deixar o cookie mais macio e o glúten, mais coeso.
+>
+>  * Eu já foz a substituição farinha-maizena com bons resultados. Agora farinha
+>    de glúten é um ingrediente que eu nunca gostei muito e nunca testei usar
+>    em cookies.
+
+---
 
 * A gota de chocolate é o ingrediente mais chato de achar. Em supermercados elas
   aparecem em pacotes pequenos e caros. Vale a pena ir numa loja especializada em doces.
@@ -127,11 +152,11 @@
 * Dá pra substituir as gotas por chocolate em barra picado - use 1 barra de chocolate
   ao leite e 1 barra do chocolate mais amargo possível até 70% cacau
   
-  * **Um jeito possível de cortar:**
-  * Corte a barra colocando numa tábua, com o lado maior virado para você
-  * Faça cortes paralelos, à 45°, paralelos à uma diagonal da barra
-  * Vire a barra 90° e repita o processo. A barra vai ficar cortada com cortes em X ao longo dela toda
-  * O processo é mais simples com o chocolate gelado. Em temperatura ambiente ele  não corta muito bem
+>  * **Um jeito possível de cortar:**
+>  * Corte a barra colocando numa tábua, com o lado maior virado para você
+>  * Faça cortes paralelos, à 45°, paralelos à uma diagonal da barra
+>  * Vire a barra 90° e repita o processo. A barra vai ficar cortada com cortes em X ao longo dela toda
+>  * O processo é mais simples com o chocolate gelado. Em temperatura ambiente ele  não corta muito bem
 
 * O tempo de descanso na geladeira é importante! Aumentar a quantidade de farinha pode até
   permitir reduzir esse tempo em termos de textura, mas o sabor ficará - proporcionalmente -
