@@ -4,15 +4,15 @@
 
 ## Ingredientes
 
-250g fettuccine fresco
-200g camarões limpos
-salsinha
-manteiga
-bicarbonato de sódio
-2 dentes de alho
-2 colheres de chá de orégano seco
-1 colher de chá de pimenta calabresa
-1 lata (400g em peso liquido) de tomates pelados
+* 250g fettuccine fresco
+* 200g camarões limpos
+* salsinha
+* manteiga
+* bicarbonato de sódio
+* 2 dentes de alho
+* 2 colheres de chá de orégano seco
+* 1 colher de chá de pimenta calabresa
+* 1 lata (400g em peso liquido) de tomates pelados
 
 ## Pré-Preparo
 
