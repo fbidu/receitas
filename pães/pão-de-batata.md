@@ -82,9 +82,13 @@
 
 ---
 > É difícil explicar como sovar pão por texto. Talvez vídeos sejam melhores.
+>
 > [Como sovar, com o Shimura](https://www.youtube.com/watch?v=sXcr4bnz4MA)
+>
 > [Como sovar, com o TudoGostoso](https://www.youtube.com/watch?v=lF0AcU0n-Fg)
+>
 > [Como sovar, com Solange Lima](https://www.youtube.com/watch?v=eyJRkjlUhqw)
+>
 > [How to Knead, Allrecipes](https://www.youtube.com/watch?v=ySOj0fFWo1U)
 >
 > Muita coisa em panificação é difícil explicar sem estar junto e treinando,
@@ -122,8 +126,11 @@
 ---
 > Modelar pão em bolinhas, assim como sovar, também é melhor visto do que lido
 > algumas referências boas são:
+>
 > [How to Shape Bread Rolls](https://www.youtube.com/watch?v=TB908K3Kd6k)
+>
 > [How to Shape Up Rolls](https://youtu.be/Gx2Sf3XqkhQ?t=105)
+>
 > [Como Fazer Pão de Hambúrguer](https://youtu.be/_QYLWe8qu8E?t=275)
 >
 > Só tome cuidado que como o pão é recheado, o recheio pode vazar se você
