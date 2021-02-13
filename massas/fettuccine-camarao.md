@@ -13,6 +13,7 @@
 * 2 colheres de chá de orégano seco
 * 1 colher de chá de pimenta calabresa
 * 1 lata (400g em peso liquido) de tomates pelados
+* 1/4 xícara de chá de creme de leite
 
 ## Pré-Preparo
 
@@ -43,7 +44,8 @@
 * Adicione um pouco da água de cozimento,
   cozinhe em fogo médio, mexendo sempre, até que o molho fique mais denso e
   cubra os fios de macarrão. Adicione mais água de cozimento, se necessário.
-* Prove e corrija os temperos, se necessário
+* Adicione o creme de leite, cozinhe por mais 1min
+* Prove e corrija os temperos, se necessário. Provavelmente vai precisar de mais sal
 * Misture a salsinha
 * Misture uma colher de sopa de azeite
 * Sirva
