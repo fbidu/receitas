@@ -1,10 +1,13 @@
 # Fettuccine com Camarão
 
-**essa receita é um rascunho**
+Essa receita é baseada em uma técnica que gosto bastante quando faço macarrão,
+terminar o cozimento do macarrão no molho. Pode ser um pouco desafiador no
+começo mas, na verdade, é mais fácil de acertar o ponto do macarrão no molho
+do que na água.
 
 ## Ingredientes
 
-* 250g fettuccine fresco
+* 250g fettuccine fresco ou seco
 * 200g camarões limpos
 * salsinha
 * manteiga
@@ -37,15 +40,25 @@
 * Aumente o fogo até que o molho comece a ferver, então abaixe o fogo, deixando
   uma fervura leve, por 5min.
 * Cozinhe o macarrão na água, retire o macarrão um pouco antes do tempo indicado
-  na embalagem, antes que ele chegue no ponto desejado. Reserve um copo da água
-  de cozimento do macarrão
-* Adicione o macarrão no molho junto do camarão - se quiser, reserve alguns
-  camarões para decorar os pratos.
-* Adicione um pouco da água de cozimento,
-  cozinhe em fogo médio, mexendo sempre, até que o molho fique mais denso e
-  cubra os fios de macarrão. Adicione mais água de cozimento, se necessário.
-* Adicione o creme de leite, cozinhe por mais 1min
+  na embalagem, antes que ele chegue no ponto desejado. Escorra e reserve um copo
+  da água de cozimento do macarrão
+* Adicione o creme de leite e o camarão ao molho - se quiser, reserve alguns
+  camarões para decorar os pratos - cozinhe por mais 1min
+* Adicione o macarrão no molho
+* Adicione um pouco da água de cozimento, cozinhe em fogo médio, mexendo sempre,
+  até que o molho fique mais denso e cubra os fios de macarrão. Adicione mais
+  água de cozimento, se necessário.
 * Prove e corrija os temperos, se necessário. Provavelmente vai precisar de mais sal
 * Misture a salsinha
 * Misture uma colher de sopa de azeite
 * Sirva
+
+## Observações
+
+* Se você estiver cozinhando com massa fresca, tome bastante cuidado com os tempos.
+  Um fettuccine fresco cozinha em cerca de 3min. É bem rápido. Nesse caso, eu
+  costumo deixar por 1min~1min30s na água e já tiro para o molho
+* Honestamente, eu raramente _escorro_ macarrão, no sentido de pegar o conteúdo
+  da panela e virar num escorredor de macarrão na pia. Eu normalmente só pesco
+  o macarrão da panela com um pegador. Como essas receitas usam água do macarrão
+  como parte do processo, não tem problema nenhum a água que vai junto do macarrão
