@@ -29,6 +29,9 @@ Materiais:
 * Plástico filme
 * Uma [forma com grelha](https://lista.mercadolivre.com.br/forma-grelha#D[A:forma%20grelha]) (opcional, mas bem recomendado!)
 * Um [termômetro de forno](https://lista.mercadolivre.com.br/termometro-forno#D[A:termometro%20forno]) (também opcional, mas muito útil)
+* Fumaça líquida - bem opcional, se você tiver ou quiser testar, beleza. Eu particularmente
+  não sinto tanta diferença. Se for usar, passe a fumaça liquida junto com o rub/molho
+  nos dois momentos em que eles são usados.
 
 ## Pré-Preparo
 
