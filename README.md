@@ -17,7 +17,7 @@ está aqui, fique a vontade para abrir uma issue ou me contactar pedindo ela
 ## Licença
 
 Eu honestamente não sei como licenciar _receitas_ mas eu acredito que a
-[Creative Commons - Atribuição-CompartilhaIgual 4.0 Internacional.](https://creativecommons.org/licenses/by-sa/4.0/deed.pt_BR)
+[Creative Commons - Atribuição-CompartilhaIgual 4.0 Internacional](https://creativecommons.org/licenses/by-sa/4.0/deed.pt_BR)
 seja apropriada. Então ela que vale aqui
 
 ## Idioma
