@@ -1,7 +1,7 @@
 # Receitas
 
 <div align=center>
-Minhas receitas ― de comida mesmo
+🇧🇷 Minhas receitas ― de comida mesmo
 </div>
 
 ---
