@@ -1,13 +1,13 @@
 # Receitas
 
 <div align=center>
-🇧🇷 As minhas receitas ― de comida mesmo
+🇧🇷 Minhas receitas ― de comida mesmo
 </div>
 
 ---
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 
-Esse repositório contém receitas que eu gosto, elaborei e vi por aí. Infelizmente ele está bem
+Esse repositório contém receitas que eu gosto, elaborei e vi por aí. Infelizmente ele está muito
 desatualizado mas eu 100% pretendo movimentar ele mais.
 
 Se tem alguma receita minha que você viu por aí ― tipo no meu
