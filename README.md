@@ -23,4 +23,4 @@ seja apropriada. Então ela que vale aqui
 ## Idioma
 
 As receitas são em português, os títulos são em português, portanto todo o resto
-também. Mensagens de commit, issues, PRs, etc.
+também. Mensagens de commit, issues e PRs.
